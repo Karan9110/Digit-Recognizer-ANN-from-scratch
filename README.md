@@ -235,7 +235,7 @@ This implementation provides a strong foundation for understanding how modern de
 
 ## Author
 
-Karan
+Karan Veram
 
 B.Tech Student | Machine Learning Enthusiast
 

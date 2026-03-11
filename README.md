@@ -230,17 +230,3 @@ Through this project, the following concepts were explored:
 * Error analysis in classification tasks
 
 This implementation provides a strong foundation for understanding how modern deep learning frameworks operate internally.
-
----
-
-## Author
-
-Karan Veram
-
-B.Tech Student | Machine Learning Enthusiast
-
----
-
-## License
-
-This project is open-source and available under the **MIT License**.
